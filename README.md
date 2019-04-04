@@ -1,7 +1,7 @@
 dds-rpc-cxx
 ===========
 
-RCP over DDS C++ API
+RPC over DDS C++ API
 
 In December 2014, OMG adopted (but not finalized) the RPC-over-DDS specification. The following files are part of the normative specification.
 
